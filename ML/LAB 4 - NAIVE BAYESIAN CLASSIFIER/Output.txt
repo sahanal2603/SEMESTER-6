@@ -1,0 +1,15 @@
+Naive Bayesian Classifier
+
+Total size:  768 rows x 9 columns
+
+
+Train_data(%)	Test_data(%)	Accuracy
+
+460(60%)	308(40%)	74.35%
+514(67%)	254(33%)	73.22%
+537(70%)	231(30%)	76.62%
+614(80%)	154(20%)	77.27%
+
+
+Accuracy depends on the processor of our PC.
+And since we use random function, the accuracy varies each time.
